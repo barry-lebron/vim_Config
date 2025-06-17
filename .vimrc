@@ -33,7 +33,7 @@ set noerrorbells
 set history=1000
 set autoread
 set wildmenu
-set wildmode=longers:list,full
+set wildmode=longest:list,full
 let mapleader=" "
 
 call plug#begin()
